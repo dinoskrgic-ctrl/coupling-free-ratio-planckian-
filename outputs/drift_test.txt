@@ -1,0 +1,61 @@
+(1) Predicted effective exponent n of rho - rho_0 (conformal bath: n = 1 exactly)
+  u rho = 0.3                      E_L/gamma =    1 eV: 1-26.7 K: n = 0.986   1.44-30 K: n = 0.986   40-85 K: n = 0.985
+  u rho = 0.3                      E_L/gamma =   10 eV: 1-26.7 K: n = 0.988   1.44-30 K: n = 0.988   40-85 K: n = 0.986
+  u rho = 1                        E_L/gamma =    1 eV: 1-26.7 K: n = 0.974   1.44-30 K: n = 0.974   40-85 K: n = 0.968
+  u rho = 1                        E_L/gamma =   10 eV: 1-26.7 K: n = 0.979   1.44-30 K: n = 0.979   40-85 K: n = 0.975
+  fixed amplitude (u -> inf)       E_L/gamma =    1 eV: 1-26.7 K: n = 0.961   1.44-30 K: n = 0.960   40-85 K: n = 0.945
+  fixed amplitude (u -> inf)       E_L/gamma =   10 eV: 1-26.7 K: n = 0.972   1.44-30 K: n = 0.971   40-85 K: n = 0.963
+  fixed amplitude, E_c = 0.3 E_L   E_L/gamma =    1 eV: 1-26.7 K: n = 0.956   1.44-30 K: n = 0.954   40-85 K: n = 0.934
+  fixed amplitude, E_c = 0.3 E_L   E_L/gamma =   10 eV: 1-26.7 K: n = 0.969   1.44-30 K: n = 0.968   40-85 K: n = 0.958
+  fixed amplitude, E_c = 3 E_L     E_L/gamma =    1 eV: 1-26.7 K: n = 0.964   1.44-30 K: n = 0.963   40-85 K: n = 0.950
+  fixed amplitude, E_c = 3 E_L     E_L/gamma =   10 eV: 1-26.7 K: n = 0.973   1.44-30 K: n = 0.972   40-85 K: n = 0.965
+  range over all cases: 1-26.7 K: 0.956-0.988   1.44-30 K: 0.954-0.988   40-85 K: 0.934-0.986
+
+(2a) Nd-LSCO p = 0.24, H = 33 T (Daou 2009 via Legros 2019 Fig. 1c)
+  window  1.0-20.0 K: n = 0.9853 +- 0.0028 (fit error, 2410 points)
+  window  1.0-23.0 K: n = 0.9842 +- 0.0022 (fit error, 2764 points)
+  window  1.0-26.7 K: n = 0.9793 +- 0.0017 (fit error, 3230 points)
+  window  1.5-20.0 K: n = 0.9763 +- 0.0031 (fit error, 2342 points)
+  window  1.5-23.0 K: n = 0.9775 +- 0.0024 (fit error, 2696 points)
+  window  1.5-26.7 K: n = 0.9740 +- 0.0018 (fit error, 3162 points)
+  window  2.0-20.0 K: n = 0.9704 +- 0.0034 (fit error, 2274 points)
+  window  2.0-23.0 K: n = 0.9734 +- 0.0027 (fit error, 2628 points)
+  window  2.0-26.7 K: n = 0.9708 +- 0.0020 (fit error, 3094 points)
+  window  3.0-20.0 K: n = 0.9553 +- 0.0042 (fit error, 2150 points)
+  window  3.0-23.0 K: n = 0.9639 +- 0.0032 (fit error, 2504 points)
+  window  3.0-26.7 K: n = 0.9641 +- 0.0024 (fit error, 2970 points)
+  -> n = 0.955-0.985 across windows; block-bootstrap s.d. (1-K blocks, 1-26.7 K) = 0.007
+     local slope at   1.7 K: 0.429 +- 0.010 uOhm cm/K
+     local slope at   4.2 K: 0.498 +- 0.006 uOhm cm/K
+     local slope at   7.7 K: 0.501 +- 0.004 uOhm cm/K
+     local slope at  12.2 K: 0.469 +- 0.003 uOhm cm/K
+     local slope at  17.3 K: 0.465 +- 0.003 uOhm cm/K
+     local slope at  23.1 K: 0.464 +- 0.002 uOhm cm/K
+(2b) LSCO p = 0.23, H = 48 T (Cooper 2009 via Legros 2019 Fig. 1b; 16 points)
+  1.4-30 K: n = 1.012 +- 0.017
+     vs prediction over 1.44-30 K (0.954-0.988; fixed amplitude 0.954-0.972): 1.4 s.d. above the top, 2.3 above the fixed-amplitude top, 3.4 above the bottom
+(2c) LSCO p = 0.24 (Michon 2023 Fig. 2a; the optics crystal)
+  rho_0T: local slopes (uOhm cm/K): 24 K 1.1146, 35 K 0.6420, 47 K 0.6263, 62 K 0.6303, 77 K 0.6365, 92 K 0.6429, 110 K 0.6653, 134 K 0.6965, 173 K 0.7529, 229 K 0.8251
+     40-85 K: n = 1.0306 +- 0.0015
+     35-75 K: n = 1.0071 +- 0.0023
+     30-80 K: n = 0.9988 +- 0.0017
+  rho_16T: local slopes (uOhm cm/K): 24 K 0.6114, 35 K 0.6091, 47 K 0.6175, 62 K 0.6231, 77 K 0.6301, 92 K 0.6542, 110 K 0.6588
+     40-85 K: n = 1.0403 +- 0.0015
+     35-75 K: n = 1.0338 +- 0.0018
+     30-80 K: n = 1.0372 +- 0.0010
+     20-80 K: n = 1.0328 +- 0.0006
+  0 T: n = 0.999-1.033 across windows 30-90 K
+  0 T, predicted window 40-85 K: n = 1.031 (sub-windows 1.022-1.039); prediction 0.934-0.986
+  0 T, 40-150/200/263 K with a T^2 or T^3 background: fitted drift c = -0.19 to +0.50 per decade (prediction +0.03 to +0.15): the answer is set by the background model
+
+(3) Optics, LSCO p = 0.24 (Michon 2023 Fig. 2b): zero-frequency value per temperature
+   50 K: median hbar/(tau kT) over hbar w/kT < 1.5 = 0.29; over 3-6: 2.40
+   60 K: median hbar/(tau kT) over hbar w/kT < 1.5 = 0.56; over 3-6: 3.21
+   75 K: median hbar/(tau kT) over hbar w/kT < 1.5 = 3.46; over 3-6: 4.83
+  100 K: median hbar/(tau kT) over hbar w/kT < 1.5 = 5.79; over 3-6: 6.87
+  150 K: median hbar/(tau kT) over hbar w/kT < 1.5 = 4.36; over 3-6: 6.01
+  200 K: median hbar/(tau kT) over hbar w/kT < 1.5 = 4.98; over 3-6: 6.44
+  250 K: median hbar/(tau kT) over hbar w/kT < 1.5 = 5.44; over 3-6: 6.44
+  300 K: median hbar/(tau kT) over hbar w/kT < 1.5 = 5.90; over 3-6: 6.22
+  The 100-300 K values scatter by +-15% without a monotonic trend, and the 50-75 K curves fail to collapse below
+  hbar w/kT ~ 10; the predicted change of C_b over 100-300 K is 2-7%, so the optics cannot test the drift.

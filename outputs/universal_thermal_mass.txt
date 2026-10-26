@@ -1,0 +1,50 @@
+Ec1.0_u1000
+  T/EL=2.2e-06 r=0.322 beta=3.92 dbeta/dln10T=-0.19 Cb=13.72 delta=+0.018 Q=13.48
+  T/EL=6.9e-06 r=0.341 beta=3.82 dbeta/dln10T=-0.21 Cb=13.39 delta=+0.021 Q=13.12
+  T/EL=2.2e-05 r=0.364 beta=3.71 dbeta/dln10T=-0.23 Cb=13.03 delta=+0.024 Q=12.72
+  T/EL=7.0e-05 r=0.390 beta=3.59 dbeta/dln10T=-0.25 Cb=12.63 delta=+0.028 Q=12.29
+  T/EL=2.2e-04 r=0.423 beta=3.45 dbeta/dln10T=-0.28 Cb=12.19 delta=+0.033 Q=11.80
+  T/EL=7.1e-04 r=0.462 beta=3.31 dbeta/dln10T=-0.32 Cb=11.69 delta=+0.040 Q=11.24
+  T/EL=2.3e-03 r=0.513 beta=3.13 dbeta/dln10T=-0.36 Cb=11.12 delta=+0.049 Q=10.61
+  T/EL=7.2e-03 r=0.580 beta=2.94 dbeta/dln10T=-0.42 Cb=10.47 delta=+0.056 Q=9.91
+  T/EL=2.3e-02 r=0.672 beta=2.71 dbeta/dln10T=-0.49 Cb=9.70 delta=+0.042 Q=9.31
+Ec1.0_u1
+  T/EL=2.2e-06 r=0.281 beta=4.16 dbeta/dln10T=-0.16 Cb=14.51 delta=+0.013 Q=14.32
+  T/EL=6.9e-06 r=0.295 beta=4.08 dbeta/dln10T=-0.17 Cb=14.23 delta=+0.015 Q=14.03
+  T/EL=2.2e-05 r=0.310 beta=3.99 dbeta/dln10T=-0.18 Cb=13.94 delta=+0.017 Q=13.71
+  T/EL=7.0e-05 r=0.327 beta=3.89 dbeta/dln10T=-0.20 Cb=13.63 delta=+0.019 Q=13.38
+  T/EL=2.2e-04 r=0.348 beta=3.79 dbeta/dln10T=-0.21 Cb=13.29 delta=+0.021 Q=13.01
+  T/EL=7.1e-04 r=0.371 beta=3.68 dbeta/dln10T=-0.23 Cb=12.92 delta=+0.024 Q=12.61
+  T/EL=2.3e-03 r=0.399 beta=3.55 dbeta/dln10T=-0.25 Cb=12.51 delta=+0.026 Q=12.19
+  T/EL=7.2e-03 r=0.432 beta=3.42 dbeta/dln10T=-0.27 Cb=12.07 delta=+0.024 Q=11.79
+  T/EL=2.3e-02 r=0.469 beta=3.28 dbeta/dln10T=-0.27 Cb=11.61 delta=+0.001 Q=11.60
+Ec1.0_u0.3
+  T/EL=2.2e-06 r=0.221 beta=4.60 dbeta/dln10T=-0.12 Cb=15.93 delta=+0.008 Q=15.80
+  T/EL=6.9e-06 r=0.228 beta=4.54 dbeta/dln10T=-0.12 Cb=15.73 delta=+0.009 Q=15.60
+  T/EL=2.2e-05 r=0.236 beta=4.47 dbeta/dln10T=-0.13 Cb=15.53 delta=+0.009 Q=15.38
+  T/EL=7.0e-05 r=0.245 beta=4.41 dbeta/dln10T=-0.13 Cb=15.31 delta=+0.010 Q=15.16
+  T/EL=2.2e-04 r=0.254 beta=4.34 dbeta/dln10T=-0.14 Cb=15.09 delta=+0.011 Q=14.93
+  T/EL=7.1e-04 r=0.265 beta=4.26 dbeta/dln10T=-0.15 Cb=14.85 delta=+0.011 Q=14.68
+  T/EL=2.3e-03 r=0.277 beta=4.19 dbeta/dln10T=-0.15 Cb=14.60 delta=+0.011 Q=14.44
+  T/EL=7.2e-03 r=0.289 beta=4.11 dbeta/dln10T=-0.15 Cb=14.35 delta=+0.007 Q=14.25
+  T/EL=2.3e-02 r=0.301 beta=4.04 dbeta/dln10T=-0.13 Cb=14.10 delta=-0.011 Q=14.26
+Ec0.3_u1000
+  T/EL=2.2e-06 r=0.335 beta=3.85 dbeta/dln10T=-0.20 Cb=13.50 delta=+0.020 Q=13.24
+  T/EL=6.9e-06 r=0.356 beta=3.75 dbeta/dln10T=-0.22 Cb=13.15 delta=+0.023 Q=12.86
+  T/EL=2.2e-05 r=0.381 beta=3.63 dbeta/dln10T=-0.24 Cb=12.77 delta=+0.026 Q=12.44
+  T/EL=7.0e-05 r=0.411 beta=3.50 dbeta/dln10T=-0.27 Cb=12.34 delta=+0.031 Q=11.96
+  T/EL=2.2e-04 r=0.448 beta=3.36 dbeta/dln10T=-0.30 Cb=11.86 delta=+0.038 Q=11.43
+  T/EL=7.1e-04 r=0.495 beta=3.19 dbeta/dln10T=-0.35 Cb=11.32 delta=+0.047 Q=10.81
+  T/EL=2.3e-03 r=0.556 beta=3.00 dbeta/dln10T=-0.41 Cb=10.69 delta=+0.060 Q=10.08
+  T/EL=7.2e-03 r=0.642 beta=2.78 dbeta/dln10T=-0.49 Cb=9.93 delta=+0.074 Q=9.25
+  T/EL=2.3e-02 r=0.768 beta=2.51 dbeta/dln10T=-0.59 Cb=9.02 delta=+0.071 Q=8.42
+Ec3.0_u1000
+  T/EL=2.2e-06 r=0.316 beta=3.95 dbeta/dln10T=-0.19 Cb=13.83 delta=+0.017 Q=13.60
+  T/EL=6.9e-06 r=0.334 beta=3.86 dbeta/dln10T=-0.20 Cb=13.51 delta=+0.020 Q=13.25
+  T/EL=2.2e-05 r=0.356 beta=3.75 dbeta/dln10T=-0.22 Cb=13.16 delta=+0.023 Q=12.87
+  T/EL=7.0e-05 r=0.381 beta=3.63 dbeta/dln10T=-0.24 Cb=12.77 delta=+0.026 Q=12.45
+  T/EL=2.2e-04 r=0.411 beta=3.50 dbeta/dln10T=-0.27 Cb=12.35 delta=+0.031 Q=11.98
+  T/EL=7.1e-04 r=0.447 beta=3.36 dbeta/dln10T=-0.30 Cb=11.87 delta=+0.037 Q=11.45
+  T/EL=2.3e-03 r=0.494 beta=3.20 dbeta/dln10T=-0.34 Cb=11.33 delta=+0.044 Q=10.85
+  T/EL=7.2e-03 r=0.553 beta=3.01 dbeta/dln10T=-0.39 Cb=10.72 delta=+0.049 Q=10.22
+  T/EL=2.3e-02 r=0.633 beta=2.80 dbeta/dln10T=-0.44 Cb=10.01 delta=+0.032 Q=9.70

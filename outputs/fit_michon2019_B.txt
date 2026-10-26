@@ -1,0 +1,5 @@
+calibration check skipped (no arXiv:1804.08502 PDF given)
+Eu_p24 {'B_0.55-10K': np.float64(2.631), 'B_0.55-2K': np.float64(2.563), 'B_2-10K': np.float64(2.7), 'B_1.8-10K': np.float64(2.679), 'C/T@0.55': np.float64(19.93), 'C/T@2': np.float64(16.44), 'C/T@10': np.float64(12.36)}
+Nd_p24 {'B_0.55-10K': np.float64(3.017), 'B_0.55-2K': np.float64(3.716), 'B_2-10K': np.float64(2.869), 'B_1.8-10K': np.float64(2.838), 'C/T@0.55': np.float64(21.53), 'C/T@2': np.float64(16.79), 'C/T@10': np.float64(12.24)}
+Eu_p21or22 {'B_2-10K': np.float64(1.243), 'B_1.8-10K': np.float64(1.242), 'C/T@0.55': None, 'C/T@2': np.float64(11.32), 'C/T@10': np.float64(9.28)}
+Nd_p21or22 {'B_0.55-10K': np.float64(1.573), 'B_0.55-2K': np.float64(1.736), 'B_2-10K': np.float64(1.747), 'B_1.8-10K': np.float64(1.698), 'C/T@0.55': np.float64(15.65), 'C/T@2': np.float64(13.25), 'C/T@10': np.float64(10.44)}
