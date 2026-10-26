@@ -2,10 +2,9 @@
 
 This package is for "Planckian dissipation per unit critical entropy as a coupling-free probe of the strange-metal bath":
 
-- the Letter is `../entropy_prl_v6.tex`;
-- the Supplemental Material is `../entropy_prl_v6_SM.tex`.
+Manuscript currently in submission, will post arXiv link once it's out 
 
-It regenerates every computed number and every figure in both. Numbers that were read from published papers, rather than computed, are listed under [Literature inputs](#literature-inputs) with their sources.
+The script regenerates every computed number and every figure used in the work. Numbers that were read from published papers, rather than computed, are listed under [Literature inputs](#literature-inputs) with their sources.
 
 ## Quick start
 
