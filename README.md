@@ -1,5 +1,7 @@
 # Reproducibility package for the v6 Letter
-# Claude Opus 5.5 assisted with the code writing and repository formation
+
+
+Claude Opus 5.5 assisted with the code writing and repository formation
 This package is for "Planckian dissipation per unit critical entropy as a coupling-free probe of the strange-metal bath":
 
 Manuscript currently in submission, will post arXiv link once it's out 
