@@ -6,7 +6,7 @@ Claude Opus 5.5 assisted with the code writing and repository formation.
 
 This package is for "Planckian dissipation per unit critical entropy as a coupling-free probe of the strange-metal bath":
 
-Manuscript currently in submission, will post arXiv link once it's out 
+Preprint is out: https://arxiv.org/pdf/2610.35939 
 
 The script regenerates every computed number and every figure used in the work. Numbers that were read from published papers, rather than computed, are listed under [Literature inputs](#literature-inputs) with their sources.
 
